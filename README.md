@@ -10,7 +10,7 @@ ExaminerHub is a personal project developed by **Shareena Michelle Goulbourn**
 as part of my transition into software development while studying
 Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-🌐 [View my interactive portfolio](YOUR-PORTFOLIO-URL)
+🌐 [View my interactive portfolio]([YOUR-PORTFOLIO-URL](https://shareenag-spec.github.io/shareena-portfoli/))
 
 💻 [GitHub Profile](https://github.com/ExaminerHub)
 
